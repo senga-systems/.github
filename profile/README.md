@@ -90,7 +90,7 @@ Our solutions are built with **security, performance, and reliability as first-c
 
 ## Leadership
 
-### Gomezgani Shaba — Founder
+### Gomezgani Shaba — Co-Founder
 
 * Data Scientist
 * Software Engineer
@@ -99,7 +99,7 @@ Our solutions are built with **security, performance, and reliability as first-c
 * Cybersecurity Expert
 * Encryption and Blockchain Expert
 
-### Farook Kalumbi — Co-Founder
+### Farook Kalumbi — Founder
 
 * Full-Stack Developer
 * Ethical Hacker
