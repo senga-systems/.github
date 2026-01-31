@@ -139,22 +139,6 @@ To become a trusted regional and international technology partner known for **se
 
 ---
 
-## Repository Information
-
-* This repository contains the Senga Systems marketing and advertisement website
-* The codebase is designed to be:
-
-  * Maintainable
-  * Scalable
-  * Easy to extend
-
-### Planned Future Additions
-
-* Knowledge base and technical blog
-* Client portal
-* Service-specific landing pages
-
----
 
 ## License
 
