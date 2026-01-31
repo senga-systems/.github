@@ -3,7 +3,6 @@
 **Senga Systems** is a technology and cybersecurity company focused on delivering **secure, intelligent, and scalable digital solutions**.
 We specialize in security-first engineering across software, data, infrastructure, and design.
 
-This repository hosts the **official Senga Systems marketing and advertisement website**.
 
 ---
 
